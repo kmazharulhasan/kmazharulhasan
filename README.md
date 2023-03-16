@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kmazharulhasan
+- 👋 Welcome! I am K. M. Azharul Hasan.
 - 👀 I’m interested in Bigdata and language processing research.
 - 🌱 I’m currently working broadly on these areas 
 - 💞️ I’m looking to collaborate on research about the topic.
